@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manpreet Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Hi! I'm Manpreet Singh, a passionate Software Developer and Data Science enthusiast. I'm currently pursuing B.Tech in Computer Science and Engineering. I love building innovative web solutions, working with machine learning models, and exploring new technologies to solve real-world problems.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manpreetsingh0722" alt="manpreetsingh0722" /></a> </p>
 
